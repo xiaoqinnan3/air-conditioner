@@ -115,3 +115,5 @@ VITE_DISABLE_ADSENSE=true
     <img src='https://fastly.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
   </a>
 </p>
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2RwSUlVYW9VbTg1U0lOVjFtcFNJbGJHQ2VZUjBpcTBHT2p4OA==#xiaoqinnan3/air-conditioner&Date" frameBorder="0"></iframe>
+<iframe style=“宽度：100%;高度：自动;最小宽度：600px;最小高度：400px;” src=“https://star-history.com/embed?secret=Z2hwX2RwSUlVYW9VbTg1U0lOVjFtcFNJbGJHQ2VZUjBpcTBHT2p4OA==#xiaoqinnan3/air-conditioner&Date” frameBorder=“0”></iframe>
